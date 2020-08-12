@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-516482898/MaterialViewPager.iml" filepath="$PROJECT_DIR$/.idea/modules/-516482898/MaterialViewPager.iml" group="MaterialViewPager" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1699014698/materialviewpager.iml" filepath="$PROJECT_DIR$/.idea/modules/-1699014698/materialviewpager.iml" group="MaterialViewPager/materialviewpager" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample.iml" group="MaterialViewPager/sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Akef.iml" filepath="$PROJECT_DIR$/.idea/modules/Akef.iml" group="Akef" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Akef/app" />
     </modules>
   </component>
 </project>
